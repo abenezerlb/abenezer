@@ -753,7 +753,7 @@ button {
     align-items: center;
     font-size: var(--small-font-size);
     font-weight: var(--font-medium);
-    color: #000;
+    color: #445a72;
     transition: color var(--transition-fast);
     position: relative;
 }

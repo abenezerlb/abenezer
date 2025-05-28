@@ -1419,7 +1419,7 @@ button {
 }
 
 .project-link {
-    color: #000;
+    color: rgb(66, 77, 72);
     font-size: var(--small-font-size);
     display: flex;
     align-items: center;
